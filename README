@@ -2,6 +2,7 @@
 The dataset consists of data from two experiments in which subjects were presented bursts of noise from loudspeakers at different elevations. Subjects who participated in either experiment were initially tested in their ability to localize elevated sound sources. Both experiments were conducted in a hemi-anechoic chamber.
 
 # Localization Tests
+Bursts of pink noise with a duration of 150 ms were presented from loudspeakers at different elevations and an azimuth of 10 degree to the listeners right. In the localization test preceding experiment I, these loudspeakers were positioned at elevations of +50°, +25°, 0° and -25° while the localization test preceding experiment II also included a loudspeaker at -50° elevation.
 
 # Experiment 1
 
