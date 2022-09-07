@@ -6,7 +6,17 @@ Bursts of pink noise with a duration of 150 ms were presented from loudspeakers 
 
 # Experiment 1
 Subjects 001-023 participated in this experiment.
-The elevation of the adapter (A) and probe (P) are encoded in the 
+The elevation of the adapter (A) and probe (P) are encoded in the event values:
+2: adapter at 37.5°, probe at 12.5°
+3: adapter at 37.5°, probe at -12.5°
+4: adapter at 37.5°, probe at -37.5°
+5: adapter at -37.5°, probe at 37.5°
+6: adapter at -37.5°, probe at 12.5°
+7: adapter at -37.5°, probe at -12.5°
+8: no adapter, any non-target location (deviant)
+
+The behavioral data
+
 
 # Experiment 2
 Subjects 100-129 participated in this experiment. 
