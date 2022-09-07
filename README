@@ -5,5 +5,8 @@ The dataset consists of data from two experiments in which subjects were present
 Bursts of pink noise with a duration of 150 ms were presented from loudspeakers at different elevations and an azimuth of 10 degree to the listeners right. In the localization test preceding experiment I, these loudspeakers were positioned at elevations of +50°, +25°, 0° and -25° while the localization test preceding experiment II also included a loudspeaker at -50° elevation.
 
 # Experiment 1
+Subjects 001-023 participated in this experiment.
 
 # Experiment 2
+Subjects 100-129 participated in this experiment. 
+The elevation of the adapter (A) and probe (P) are encoded in the 
