@@ -5,8 +5,7 @@ The dataset consists of data from two experiments in which subjects were present
 Bursts of pink noise with a duration of 150 ms were presented from loudspeakers at different elevations and an azimuth of 10 degree to the listeners right. In the localization test preceding experiment I, these loudspeakers were positioned at elevations of +50°, +25°, 0° and -25° while the localization test preceding experiment II also included a loudspeaker at -50° elevation.
 
 # Deviant Detection (Experiment 1)
-Subjects 001-023 participated in this experiment.
-The elevation of the adapter (A) and probe (P) are encoded in the event values:
+Subjects 001-023 participated in this experiment. Subjects heard a long trail of noise from one loudspeaker (adapter), followed by a short burst of noise from another. The elevation of the adapter (A) and probe (P) are encoded in the event values:
 2: adapter at 37.5°, probe at 12.5°
 3: adapter at 37.5°, probe at -12.5°
 4: adapter at 37.5°, probe at -37.5°
@@ -14,8 +13,9 @@ The elevation of the adapter (A) and probe (P) are encoded in the event values:
 6: adapter at -37.5°, probe at 12.5°
 7: adapter at -37.5°, probe at -12.5°
 8: no adapter, any non-target location (deviant)
-The behavioral data contains the trial numbers where a deviant was presented and weather the subject responded within one second by pressing a button
-
+The behavioral data contains the trial numbers where a deviant was presented and weather the subject responded within one second by pressing a button.
 
 # Experiment 2
-Subjects 100-129 participated in this experiment. 
+Subjects 100-129 participated in this experiment. Subjects heard a long trail of white noise through open headphones followed by a short burst of noise from a loudspeaker. The loudspeakers elevation is encoded in the event values:
+1: 37.5°, 2: 12.5°, 3:-23.5°, 4:-37.5°
+Roughly five percent of trials were targets where subject heard a beep after the trial, prompting them to localize the previously heard sound. The number of those target trials, as well as the target's elevation and the subject's response can be found iin thee behavioral data
