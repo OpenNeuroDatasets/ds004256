@@ -4,7 +4,7 @@ The dataset consists of data from two experiments in which subjects were present
 # Localization Tests
 Bursts of pink noise with a duration of 150 ms were presented from loudspeakers at different elevations and an azimuth of 10 degree to the listeners right. In the localization test preceding experiment I, these loudspeakers were positioned at elevations of +50°, +25°, 0° and -25° while the localization test preceding experiment II also included a loudspeaker at -50° elevation.
 
-# Experiment 1
+# Deviant Detection (Experiment 1)
 Subjects 001-023 participated in this experiment.
 The elevation of the adapter (A) and probe (P) are encoded in the event values:
 2: adapter at 37.5°, probe at 12.5°
@@ -14,8 +14,7 @@ The elevation of the adapter (A) and probe (P) are encoded in the event values:
 6: adapter at -37.5°, probe at 12.5°
 7: adapter at -37.5°, probe at -12.5°
 8: no adapter, any non-target location (deviant)
-
-The behavioral data
+The behavioral data contains the trial numbers where a deviant was presented and weather the subject responded within one second by pressing a button
 
 
 # Experiment 2
