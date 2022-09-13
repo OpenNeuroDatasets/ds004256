@@ -2,7 +2,7 @@
 The dataset consists of data from two experiments in which subjects were presented bursts of noise from loudspeakers at different elevations. Subjects who participated in either experiment were initially tested in their ability to localize elevated sound sources. Both experiments were conducted in a hemi-anechoic chamber.
 
 # Localization Tests
-Bursts of pink noise were presented from loudspeakers at different elevations and 10° azimuth (to the listeners right). In the localization test preceding experiment I, these loudspeakers were positioned at elevations of +50°, +25°, 0° and -25° while the localization test preceding experiment II also included a loudspeaker at -50° elevation.
+Bursts of pink noise were presented from loudspeakers at different elevations and 10° azimuth (to the listeners right). In the localization test preceding experiment I, these loudspeakers were positioned at elevations of +50°, +25°, 0° and -25° while the localization test preceding experiment II also included a loudspeaker at -50° elevation. Localization test data is missing for sub-001, sub-002 and sub-003
 
 # Deviant Detection (Experiment 1)
 Subjects 001-023 participated in this experiment. Subjects heard a long trail of noise from one loudspeaker (adapter), followed by a short burst of noise from another loudspeaker (probe). The elevation of the adapter and probe are encoded in the event values:
